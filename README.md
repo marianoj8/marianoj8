@@ -24,7 +24,7 @@
 <a href="https://linkedin.com/in/mariano-javaswing-a44763180" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mariano-javaswing-a44763180" height="30" width="40" /></a>
 <a href="https://fb.com/javaswing" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="javaswing" height="30" width="40" /></a>
 <a href="https://instagram.com/marianojavaswing" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="marianojavaswing" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/código abstrato" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="código abstrato" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UCk-TLN2fG2WE0VUnrHwrH_g" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="código abstrato" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
