@@ -46,7 +46,7 @@
 </p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,sqlite,elasticsearch,aws,gcp,docker,kubernetes,kafka,rabbitmq,linux,bash,git,figma,postman&perline=8" />
+    <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,sqlite,elasticsearch,aws,gcp,docker,kubernetes,kafka,rabbitmq,linux,bash,git,vim,neovim,figma,postman&perline=9" />
   </a>
 </p>
 
