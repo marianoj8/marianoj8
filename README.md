@@ -31,8 +31,8 @@
 ---
 
 ### 👨‍💻 About Me
-- 🔭 I’m currently working on **Sistemas Financeiros e PSP (Payments Service Providers)**
-- 🌱 I’m currently learning and exploring **novas arquiteturas para sistemas de alta disponibilidade**
+- 🔭 I’m currently working on **Financial Systems and PSPs (Payments Service Providers)**
+- 🌱 I’m currently learning and exploring **new architectures for high availability systems**
 - 📫 How to reach me: **marianojs8@yandex.ru**
 - ⚡ Fun fact: **I'm funny!**
 
