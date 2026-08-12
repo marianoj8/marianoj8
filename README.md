@@ -7,6 +7,9 @@
 
 <!-- Social Links -->
 <p align="center">
+  <a href="https://marianoj8-me.web.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=Web&logoColor=white" alt="Portfolio" />
+  </a>
   <a href="https://linkedin.com/in/mariano-javaswing-a44763180" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
@@ -33,6 +36,7 @@
 ### 👨‍💻 About Me
 - 🔭 I’m currently working on **Financial Systems and PSPs (Payments Service Providers)**
 - 🌱 I’m currently learning and exploring **new architectures for high availability systems**
+- 🌐 Check out my portfolio: **[marianoj8-me.web.app](https://marianoj8-me.web.app/)**
 - 📫 How to reach me: **marianojs8@yandex.ru**
 - ⚡ Fun fact: **I'm funny!**
 
