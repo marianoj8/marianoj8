@@ -42,6 +42,12 @@
 
 ---
 
+### 📺 Latest YouTube Videos
+<!-- YOUTUBE:START -->
+<!-- YOUTUBE:END -->
+
+---
+
 ### 🛠️ Languages and Tools
 <p align="center">
   <a href="https://skillicons.dev">
@@ -70,4 +76,16 @@
 <!-- Profile Views -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=marianoj8&label=Profile%20views&color=fe428e&style=flat" alt="Profile Views" />
+</p>
+
+---
+
+### 🐍 Contribution Snake
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/marianoj8/marianoj8/output/github-contribution-grid-snake-dark.svg?palette=github-dark">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/marianoj8/marianoj8/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/marianoj8/marianoj8/output/github-contribution-grid-snake.svg">
+  </picture>
 </p>
