@@ -51,6 +51,11 @@
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Curso de Dart - Aula 05 -Null Safety](https://www.youtube.com/watch?v=aaniU70cBcs)
+- [Curso de Dart - Aula 04 - Variáveis e tipos de dados](https://www.youtube.com/watch?v=3GXSfMms4pU)
+- [Figma 02 - Home Screen Design](https://www.youtube.com/watch?v=wyQ5fUTvt-I)
+- [Curso de Dart - Aula 03 - Primeiro Programa &lpar;Olá, mundo!&rpar;](https://www.youtube.com/watch?v=XzcfX64Rewo)
+- [FIGMA 01 - LOGIN SCREEN DESIGN](https://www.youtube.com/watch?v=spXKm6hbicE)
 <!-- YOUTUBE:END -->
 
 ---
