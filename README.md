@@ -5,6 +5,13 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=fe428e&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Building+Financial+Systems;Working+with+PSPs;Always+Learning+New+Tech" alt="Typing SVG" />
 </p>
 
+<!-- Last.fm / Apple Music (Substitua SEU_USUARIO_AQUI) -->
+<p align="center">
+  <a href="https://last.fm/user/SEU_USUARIO_AQUI">
+    <img src="https://lastfm-recently-played.vercel.app/api?user=SEU_USUARIO_AQUI&theme=radical" alt="Last.fm Currently Playing" />
+  </a>
+</p>
+
 <!-- Social Links -->
 <p align="center">
   <a href="https://marianoj8-me.web.app/" target="_blank">
@@ -48,6 +55,16 @@
 
 ---
 
+### 📰 Daily.dev
+<!-- Substitua o link abaixo pelo link oficial do seu DevCard gerado no Daily.dev -->
+<p align="center">
+  <a href="https://app.daily.dev/marianoj8">
+    <img src="https://api.daily.dev/devcards/v2/COLOQUE_SEU_ID_AQUI.png?type=default&r=7tz" width="356" alt="Mariano JavaSwing's Dev Card"/>
+  </a>
+</p>
+
+---
+
 ### 🛠️ Languages and Tools
 <p align="center">
   <a href="https://skillicons.dev">
@@ -73,6 +90,10 @@
   <img src="https://readme-stats-anuraghazra.vercel.app/api/top-langs?username=marianoj8&show_icons=true&locale=en&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 </p>
 
+### ⏱️ WakaTime Coding Stats
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 <!-- Profile Views -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=marianoj8&label=Profile%20views&color=fe428e&style=flat" alt="Profile Views" />
@@ -88,4 +109,11 @@
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/marianoj8/marianoj8/output/github-contribution-grid-snake.svg">
     <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/marianoj8/marianoj8/output/github-contribution-grid-snake.svg">
   </picture>
+</p>
+
+---
+
+### 💡 Quote of the Day
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Quote of the Day" />
 </p>
