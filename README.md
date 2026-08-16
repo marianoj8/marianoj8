@@ -127,29 +127,6 @@ Kotlin                   27 mins             █░░░░░░░░░░�
 YAML                     22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.64 % 
 ```
 
-🤖 **AI Coding This Week** 
-
-```text
-⏱ AI Coding Time: 14 hrs 9 mins (100.0%)
-
-✍️ 1,275 lines written by AI, 0 lines written by hand (100.0% AI-written)
-
-🔤 0 Input Tokens, 0 Output Tokens
-
-💵 $0.00 Estimated AI Cost This Week
-
-🧠 15 AI Sessions, 159 AI Prompts
-
-Gemini                   1,393 lines         █████████████████████████   100.00 % 
-
-🔎 AI Coding Insights:
-🤖 AI-Driven — 100.0% of written lines came from AI
-📝 Concise Prompter — average 143 characters per prompt
-🔁 Iterative Prompter — average 11 prompts per session
-🚀 High AI Trust — 0.0% of changed lines were hand-edited
-```
-
-
  Last Updated on 16/08/2026 01:22:17 UTC
 <!--END_SECTION:waka-->
 
