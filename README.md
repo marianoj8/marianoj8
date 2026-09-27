@@ -127,29 +127,6 @@ JavaScript               21 mins             █░░░░░░░░░░�
 CSS                      3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.91 % 
 ```
 
-🤖 **AI Coding This Week** 
-
-```text
-⏱ AI Coding Time: 6 hrs 59 mins (100.0%)
-
-✍️ 2,725 lines written by AI, 0 lines written by hand (100.0% AI-written)
-
-🔤 0 Input Tokens, 0 Output Tokens
-
-💵 $0.00 Estimated AI Cost This Week
-
-🧠 7 AI Sessions, 68 AI Prompts
-
-Gemini                   2,968 lines         █████████████████████████   100.00 % 
-
-🔎 AI Coding Insights:
-🤖 AI-Driven — 100.0% of written lines came from AI
-📝 Concise Prompter — average 138 characters per prompt
-🔁 Iterative Prompter — average 10 prompts per session
-🚀 High AI Trust — 0.0% of changed lines were hand-edited
-```
-
-
  Last Updated on 27/09/2026 04:01:13 UTC
 <!--END_SECTION:waka-->
 
