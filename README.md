@@ -101,17 +101,17 @@
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-7-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-9.72%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-9.75%20million%20lines%20of%20code-blue?style=flat)
 
 📅 **I'm Most Productive on Wednesday** 
 
 ```text
-Monday                   11825 commits       ████░░░░░░░░░░░░░░░░░░░░░   14.40 % 
-Tuesday                  11613 commits       ████░░░░░░░░░░░░░░░░░░░░░   14.15 % 
-Wednesday                13863 commits       ████░░░░░░░░░░░░░░░░░░░░░   16.89 % 
+Monday                   11829 commits       ████░░░░░░░░░░░░░░░░░░░░░   14.40 % 
+Tuesday                  11613 commits       ████░░░░░░░░░░░░░░░░░░░░░   14.14 % 
+Wednesday                13874 commits       ████░░░░░░░░░░░░░░░░░░░░░   16.89 % 
 Thursday                 12430 commits       ████░░░░░░░░░░░░░░░░░░░░░   15.14 % 
-Friday                   11605 commits       ████░░░░░░░░░░░░░░░░░░░░░   14.14 % 
-Saturday                 10320 commits       ███░░░░░░░░░░░░░░░░░░░░░░   12.57 % 
+Friday                   11616 commits       ████░░░░░░░░░░░░░░░░░░░░░   14.14 % 
+Saturday                 10322 commits       ███░░░░░░░░░░░░░░░░░░░░░░   12.57 % 
 Sunday                   10443 commits       ███░░░░░░░░░░░░░░░░░░░░░░   12.72 % 
 ```
 
@@ -120,15 +120,13 @@ Sunday                   10443 commits       ███░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-TypeScript               3 hrs 25 mins       ███████████████░░░░░░░░░░   61.88 % 
-JSON                     1 hr 2 mins         █████░░░░░░░░░░░░░░░░░░░░   18.72 % 
-Markdown                 45 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.59 % 
-JavaScript               18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.69 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 % 
+TypeScript               39 mins             █████████████████░░░░░░░░   69.82 % 
+Markdown                 15 mins             ███████░░░░░░░░░░░░░░░░░░   26.93 % 
+JSON                     1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   03.25 % 
 ```
 
 
- Last Updated on 30/09/2026 04:20:16 UTC
+ Last Updated on 01/10/2026 04:30:36 UTC
 <!--END_SECTION:waka-->
 
 <!-- Profile Views -->
