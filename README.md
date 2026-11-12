@@ -7,7 +7,7 @@
 
 <!-- Last.fm / Apple Music (Substitua SEU_USUARIO_AQUI) -->
 <p align="center">
-  <a href="https://last.fm/user/SEU_USUARIO_AQUI">
+  <a href="https://last.fm/user/marianoj8">
     <img src="https://lastfm-recently-played.vercel.app/api?user=SEU_USUARIO_AQUI&theme=radical" alt="Last.fm Currently Playing" />
   </a>
 </p>
